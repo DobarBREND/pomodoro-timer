@@ -3,4 +3,4 @@ A simple Pomodoro Timer is an app that helps you to manage time efficiently by s
 <br><br>
 <a href="" target="_blank">Pomodoro Timer</a>
 <br><br>
-<img src="" alt="Pmodoro Timer">
+<img src="https://github.com/DobarBREND/pomodoro-timer/blob/main/Pomodoro%20Timer.PNG" alt="Pomodoro Timer">
